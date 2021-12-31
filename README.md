@@ -1,9 +1,9 @@
 # TypeScript files
 ###### Data Types
-  *Arrays
-  *Tuples
-  *Any
-  *Unknown
-  *NullUndefined
-  *Functions
-  *Void functions
+  - Arrays
+  - Tuples
+  - Any
+  - Unknown
+  - NullUndefined
+  - Functions
+  - Void functions
