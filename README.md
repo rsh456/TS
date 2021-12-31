@@ -1,5 +1,5 @@
 # TypeScript files
-###### Data Types
+## Data Types
   - Arrays
   - Tuples
   - Any
