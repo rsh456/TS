@@ -7,3 +7,6 @@
   - NullUndefined
   - Functions
   - Void functions
+
+## Classes
+  - Inheritance
